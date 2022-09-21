@@ -24,11 +24,10 @@ In this game you must control a ball with your paddle and attempt to break all o
 ## let's play!
 
 In order to run the game:
-
 1- Download the project, and open the project's folder in the CMD.
 2- Enter the folloing commands:
 ant
 ant run
 
-* In order to start the game from a specific level, enter the command:
+*In order to start the game from a specific level, enter the command:
 ant run -Dargs = {level number}
