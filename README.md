@@ -3,7 +3,7 @@
 Arkanoid is an arcade game with similarities to the iconic Super Breakout.
 In this game you must control a ball with your paddle and attempt to break all of the colored blocks on each level.
 
-## The levels
+## The Levels
 
 ### Level 1: Direct Hit
 <img width="598" alt="image" src="https://user-images.githubusercontent.com/92527489/191509692-fe305b60-ad5f-4df5-a1c7-d812d3a616ef.png">
@@ -21,7 +21,7 @@ In this game you must control a ball with your paddle and attempt to break all o
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/92527489/191509173-59971c1e-5c09-40cd-aefa-981500ca2452.png">
 
 
-## let's play!
+## Let's Play!
 
 In order to run the game:\
 1- Download the project, and open the project's folder in the CMD.\
