@@ -28,4 +28,5 @@ In order to run the game:\
 2- For the full game, enter the following command:\
 ant run\
 In order to select the levels you want and their order, enter the command:\
-ant run -Dargs = {numbers of the levels}
+ant run -Dargs = {numbers of the levels, seperated with spaces}\
+for example: ant run -Dargs = 2 1
