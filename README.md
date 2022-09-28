@@ -26,6 +26,6 @@ In this game you must control a ball with your paddle and attempt to break all o
 In order to run the game:\
 1- Download the project, and open the project's folder in the CMD.\
 2- For the full game, enter the following command:\
-ant run
+ant run\
 In order to select the levels you want and their order, enter the command:\
 ant run -Dargs = {numbers of the levels}
