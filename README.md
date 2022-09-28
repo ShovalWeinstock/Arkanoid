@@ -29,4 +29,4 @@ In order to run the game:\
 ant run\
 In order run a specific level, enter the command:\
 ant run -Dargs = {level number}\
-for example: ant run -Dargs = 2
+For example: ant run -Dargs = 2
