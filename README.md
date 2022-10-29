@@ -27,6 +27,7 @@ In order to run the game:\
 1- Download the project, and open the project's folder in the CMD.\
 2- For the full game, enter the following command:\
 ant run\
-In order run a specific level, enter the command:\
-ant run -Dargs = {level number}\
-For example: ant run -Dargs = 2
+You can select the levels and their order, by entering the command:\
+ant -Dargs="{the numbers of the levels, seperated by spaces}" run\
+For example: ant -Dargs="2 1 3 1" run
+
